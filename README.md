@@ -2,7 +2,7 @@
 Jogo feito durante matéria de Linguagem de Programação, feito em c++  
 
 # Passo 1: Baixando o projeto Jogo
- Faça o [download](https://drive.google.com/u/0/uc?id=1VzeQDQqCKHw4GTUVUSFpIT1eedv2BO-o&export=download)do projeto do jogo. Que contém três diretórios.
+ Faça o [download](https://drive.google.com/u/0/uc?id=1VzeQDQqCKHw4GTUVUSFpIT1eedv2BO-o&export=download) do projeto do jogo. Que contém três diretórios.
 
 - sfml-game-7-8
 
