@@ -1,16 +1,14 @@
 # Brave-Soul
-Jogo feito durante matéria de linguagem de programação, feito em c++  
+Jogo feito durante matéria de Linguagem de Programação, feito em c++  
 
 # Passo 1: Baixando o projeto Jogo
-<p>
-  Faça o <a href=“https://drive.google.com/u/0/uc?id=1VzeQDQqCKHw4GTUVUSFpIT1eedv2BO-o&export=download“>dowload</a> do projeto do jogo. Que contém três diretórios.
-</p>
+ Faça o [download](https://drive.google.com/u/0/uc?id=1VzeQDQqCKHw4GTUVUSFpIT1eedv2BO-o&export=download)do projeto do jogo. Que contém três diretórios.
 
-sfml-game-7-8
+- sfml-game-7-8
 
-MinGW
+- MinGW
 
-SFML-2.5.1
+- SFML-2.5.1
 
 
 # Passo 2: Abrindo o projeto do game com o codeblocks
@@ -26,13 +24,13 @@ Na seção "Compiler's installation directory", clique no botão com "..." (trê
 Selecione o diretório Brave Soul/MinGW
 Na aba "Program Files", certifique-se que os campos abaixo possuam os seguintes valores
 
-C compiler: gcc.exe
+- C compiler: gcc.exe
 
-C++ compiler: g++.exe
+- C++ compiler: g++.exe
 
-Linker for dynamic libs: g++.exe
+- Linker for dynamic libs: g++.exe
 
-Linker for static libs: ar.exe
+- Linker for static libs: ar.exe
 
 # Passo 4: Compilando o projeto
 Clique no menu Run >> Build and Run. Ou você pode pressionar f9 como atalho.
