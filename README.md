@@ -4,9 +4,10 @@ Jogo feito durante matéria de linguagem de programação, feito em c++
 #Passo 1: Baixando o projeto codeblocks
 Faça o download do projeto do jogo. Que contém três diretórios.
 
-sfml-game-7-8
-MinGW
-SFML-2.5.1
+*sfml-game-7-8
+*MinGW
+*SFML-2.5.1
+
 
 # Passo 2: Abrindo o projeto do game com o codeblocks
 Abra o Brave Soul
